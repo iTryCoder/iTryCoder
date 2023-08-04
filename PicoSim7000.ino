@@ -26,7 +26,7 @@ String SIMCOM_String = "";  // serial from SIMCOM
 String AT_String = "";      // serial to SIMCOM
 String SMS_String = "";     // text message string
 
-String Cell_Num = "14405395007";
+String Cell_Num = "12223334444";  // your number here
 
 String GPS_ON = "";
 String GPS_Fix = "";
