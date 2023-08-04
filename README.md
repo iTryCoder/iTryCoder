@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @iTryCoder
-- 👀 I’m interested in ... cellular boards, mainly SIMCOM7### based
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- iTryCoder
+- enjoy tinkering with cell boards, mainly Simcom based
+- Simcom chips I've tinkered with: SIM808, SIM5320, SIM7000, SIM7080, SIM7600
+- board on the way: LilyGo T-SIM7080G-S3
+- currently tinkering with LoRa boards
 
 <!---
 iTryCoder/iTryCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
